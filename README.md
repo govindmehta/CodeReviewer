@@ -1,4 +1,4 @@
-🚀 AI-Powered Code Review Editor
+#🚀 AI-Powered Code Review Editor
 An interactive code editor with built-in AI-powered code review functionality! This project allows users to write, edit, and analyze their code, receiving instant feedback from an AI model. The sleek dark-themed UI provides a seamless experience for developers.
 
 🎯 Features
