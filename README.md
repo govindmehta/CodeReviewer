@@ -27,14 +27,14 @@ An interactive code editor with built-in AI-powered code review functionality! T
 ## 🚀 Getting Started  
 
 ### 1️⃣ Clone the Repository  
-git clone https://github.com/govindmehta/CodeReviewer.git
+git clone https://github.com/govindmehta/CodeReviewer.git <br>
 cd CodeReviewer
 
 ### 2️⃣ Install dependencies
 npm install
 
 ### 3️⃣ Run the project
-npm run dev
+npm run dev <br>
 The application will be available at http://localhost:5173/
 
 ## 🔗 Backend Setup
@@ -44,11 +44,11 @@ You can modify the endpoint in App.tsx if needed.
 
 🎨 Dark-themed UI with a smooth experience
 
-💡 Future Improvements
-🚀 Support for multiple languages (Python, Java, C++, etc.)
-🚀 More advanced AI analysis (Security vulnerabilities, performance optimizations)
-🚀 Save & Load code snippets
+💡 Future Improvements<br>
+🚀 Support for multiple languages (Python, Java, C++, etc.)<br>
+🚀 More advanced AI analysis (Security vulnerabilities, performance optimizations)<br>
+🚀 Save & Load code snippets<br>
 
 
-🔗 Contributions, feedback, and improvements are welcome! 🎉
+🔗 Contributions, feedback, and improvements are welcome! 🎉<br>
 If you find this useful, don't forget to ⭐ star the repo! 🚀✨
